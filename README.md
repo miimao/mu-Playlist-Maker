@@ -8,3 +8,5 @@ Are you to lazy to find new music to listen to?
 Have you ever spent hours crawling your way through /mu/ trying to find something interesting to listen to?
 
 This tool is for YOU!
+
+NOTE: Currently only the Spotify Playlist currently works.
